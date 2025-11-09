@@ -4,7 +4,7 @@ Welcome to my profile
 
 Hey there! Welcome to my hub :)
 
-I'm Abioye Orimadegun, an enthusiastic Cybersecurity Analyst (in Training). 
+I'm Abioye Orimadegun, an enthusiastic Cybersecurity Analyst (in Training). I'm constantly learning, tinkering, tweaking, and building a portfolio of projects on system administration and hardening, network management and security, threat detection and analysis.
 
 
 <!--
@@ -17,13 +17,29 @@ Below you'll find a list of projects I'm working on to showcase my knowledge and
 
 <!-- LIST PROJECTS HERE -->
 
-### Learning
+## Tools and Technoligies
+
+✤ VirtualBox, VMWare
+✤ Wireshark, Nmap, Metaspolit
+✤ MySQL, Python
+✤ Windows, Linux, macOS
+✤ Splunk, Suricata
+
+<!--
+🖥 VirtualBox, VMware, AWS Free Tier
+🧪 Wireshark, Nmap, Metasploit
+🔐 Wazuh, Suricata, Elastic Stack
+🐧 Linux, macOS, Windows
+📄 Markdown, Git, GitHub
+-->
+
+## Learning
 
 I'm currently studying for CompTIA Security+ after obtaining the CompTIA A+ and Network+ and I'm learning daily on how networks work and how to protect them from intrusion. I'm also actively learning about defensive security to enable me to effectively safeguard systems and respond to potential threats in real-world environments.
 
-### Fun fact
+## Fun fact
 
-I've been to one of the highest and coldest regions in Nigeria: Mambilla and I like taking landscape photos 😜
+I've been to one of the highest and coldest regions in Nigeria: Mambilla. And, I like taking landscape photos (I can send you some really cool ones as desktop wallpaper) 😜
 
 ### Wanna reach me?
 
