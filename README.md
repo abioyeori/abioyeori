@@ -15,13 +15,15 @@ Below you'll find a list of projects I'm working on to showcase my knowledge and
 
 <!-- LIST PROJECTS HERE -->
 
-## Tools and Technoligies
+## Tools and Technologies
 
-✤ VirtualBox, VMWare <\n>
-✤ Wireshark, Nmap, Metaspolit
-✤ MySQL, Python
-✤ Windows, Linux, macOS
+✤ VirtualBox, VMWare  
+✤ Wireshark, Nmap, Metaspolit  
+✤ MySQL, Python  
+✤ Windows, Linux, macOS  
 ✤ Splunk, Suricata
+
+
 
 <!--
 🖥 VirtualBox, VMware, AWS Free Tier
