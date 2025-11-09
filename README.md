@@ -1,4 +1,4 @@
-## Abioye Orimadegun ♦︎ Cybersecurity Analyst
+# Abioye Orimadegun ♦︎ Cybersecurity Analyst
 
 Welcome to my profile
 
