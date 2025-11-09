@@ -4,6 +4,12 @@ Welcome to my profile
 
 <b> new text </b>
 
+### Cybersecurity Projects
+
+Below you'll find a list of projects I'm working on to showcase my knowledge and skill in IT and information security.
+
+
+
 <!--
 **abioyeori/abioyeori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
