@@ -2,9 +2,7 @@
 
 Welcome to my profile
 
-<b> new text </b>
-
-### Cybersecurity Projects
+## Cybersecurity Projects
 
 Below you'll find a list of projects I'm working on to showcase my knowledge and skills in IT and information security. Each project is to demonstrate the use of a specific (or multiple) technology, tool, or application in real-world scenarios.
 
