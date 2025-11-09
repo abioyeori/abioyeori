@@ -1,7 +1,5 @@
 # Abioye Orimadegun ♦︎ Cybersecurity Analyst
 
-Welcome to my profile
-
 Hey there! Welcome to my hub :)
 
 I'm Abioye Orimadegun, an enthusiastic Cybersecurity Analyst (in Training). I'm constantly learning, tinkering, tweaking, and building a portfolio of projects on system administration and hardening, network management and security, threat detection and analysis.
@@ -19,7 +17,7 @@ Below you'll find a list of projects I'm working on to showcase my knowledge and
 
 ## Tools and Technoligies
 
-✤ VirtualBox, VMWare
+✤ VirtualBox, VMWare <\n>
 ✤ Wireshark, Nmap, Metaspolit
 ✤ MySQL, Python
 ✤ Windows, Linux, macOS
