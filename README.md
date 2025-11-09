@@ -2,6 +2,8 @@
 
 Welcome to my profile
 
+<b> new text </b>
+
 <!--
 **abioyeori/abioyeori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
