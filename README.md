@@ -136,7 +136,9 @@ Skills shown: Cloud networking, IAM, secure architecture.
 
 ## Learning
 
-I'm currently studying for CompTIA Security+ after obtaining the CompTIA A+ and Network+ and I'm learning daily on how networks work and how to protect them from intrusion. I'm also actively learning about defensive security to enable me to effectively safeguard systems and respond to potential threats in real-world environments.
+I'm currently studying for CompTIA Security+ after completing CompTIA A+, Network+ and Google Professional Cybersecurity Certification training.  
+
+I'm learning daily about how networks work and how to protect them from intrusion. I'm also actively learning about defensive security to enable me to effectively safeguard systems and respond to potential threats in real-world environments.
 
 ## Fun fact
 
