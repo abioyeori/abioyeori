@@ -6,8 +6,17 @@ Welcome to my profile
 
 ### Cybersecurity Projects
 
-Below you'll find a list of projects I'm working on to showcase my knowledge and skill in IT and information security.
+Below you'll find a list of projects I'm working on to showcase my knowledge and skills in IT and information security. Each project is to demonstrate the use of a specific (or multiple) technology, tool, or application in real-world scenarios.
 
+<! -- LIST PROJECTS HERE -->
+
+### Learning
+
+I'm currently studying for CompTIA Security+ after obtaining the CompTIA A+ and Network+ and I'm learning daily on how networks work and how to protect them from intrusion. I'm also actively learning about defensive security to enable me to effectively safeguard systems and respond to potential threats in real-world environments.
+
+### Fun fact:
+
+I've been to one of the highest and coldest regions in Nigeria: Mambilla and I like taking landscape photos 😜
 
 
 <!--
