@@ -1,4 +1,4 @@
-# Abioye Orimadegun ♦︎ Cybersecurity Analyst
+# Abioye Orimadegun ♦︎ IT Support ♦︎ Cybersecurity Analyst
 
 Hey there! Welcome to my hub :)
 
