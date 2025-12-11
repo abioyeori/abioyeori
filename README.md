@@ -10,7 +10,7 @@ I'm Abioye Orimadegun, an enthusiastic Cybersecurity Analyst (in Training). I'm 
 Below you'll find a list of projects I'm working on to showcase my knowledge and skills in IT and information security. Each project is to demonstrate the use of a specific (or multiple) technology, tool, or application in real-world scenarios.
 
 ### Home Lab Setup
-🔰 [Setting up a virtual home lab](https://github.com/abioyeori/home-lab-windows)
+🔰 [Setting up a virtual home lab](https://github.com/abioyeori/home-lab-windows)   
 🔰 [Small-scale retail company setup with Active Directory](https://github.com/abioyeori/windows-server-domain-lab)
 
 ### Network Topology and Simulation
